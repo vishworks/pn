@@ -1,6 +1,6 @@
 # WebLegacy
 
-This project was generated with  represents a legacy application with intent to load a micro-frontend angular app. via an IFRAME
+This project represents a legacy application with intent to load a micro-frontend angular app (web-new). via an IFRAME
 
 ## Development server
 
