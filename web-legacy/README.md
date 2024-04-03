@@ -1,10 +1,11 @@
 # WebLegacy
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.2.
+This project was generated with  represents a legacy application with intent to load a micro-frontend angular app. via an IFRAME
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Run `ng serve` for a dev server. Navigate to `http://web-legacy.quest1.io:4200/`. The application will automatically reload if you change any of the source files.
+The hostname mentioned above is merely an alias to an entry of 127.0.0.1 in the /etc/hosts file
 
 ## Code scaffolding
 
